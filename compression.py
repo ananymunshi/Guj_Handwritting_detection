@@ -95,5 +95,5 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
     cv2.imwrite("./Temp/img_contour.jpg", img)
 
 
-# Input image path and out folder
+# Input image path and out dir
 box_extraction("sample.jpg", "./Output/")
