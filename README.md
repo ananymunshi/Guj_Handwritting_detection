@@ -1,0 +1,1 @@
+# Guj_Handwritting_detection
